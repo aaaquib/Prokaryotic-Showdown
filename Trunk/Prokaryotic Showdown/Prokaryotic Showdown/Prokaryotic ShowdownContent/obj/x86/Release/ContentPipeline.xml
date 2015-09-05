@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background1.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2012-12-13T13:42:47.8591331-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_0.png</Source>
+      <Name>SBacteria1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_0.xnb</Output>
+      <Time>2012-12-13T13:42:47.1290913-05:00</Time>
+    </Item>
+    <Item>
+      <Source>food.png</Source>
+      <Name>food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\food.xnb</Output>
+      <Time>2012-12-13T13:42:49.0201995-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\background2.xnb</Output>
+      <Time>2012-12-13T13:42:48.6831802-05:00</Time>
+    </Item>
+    <Item>
+      <Source>virus.png</Source>
+      <Name>virus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\virus.xnb</Output>
+      <Time>2012-12-13T13:42:48.3201594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>water.png</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\water.xnb</Output>
+      <Time>2012-12-13T13:42:46.8000725-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DottedLine.png</Source>
+      <Name>DottedLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\DottedLine.xnb</Output>
+      <Time>2012-12-13T13:42:49.3052158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_1.png</Source>
+      <Name>SBacteria1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_1.xnb</Output>
+      <Time>2012-12-13T13:42:47.2841002-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_2.png</Source>
+      <Name>SBacteria1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_2.xnb</Output>
+      <Time>2012-12-13T13:42:47.3661049-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_3.png</Source>
+      <Name>SBacteria1_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_3.xnb</Output>
+      <Time>2012-12-13T13:42:47.8881347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_4.png</Source>
+      <Name>SBacteria1_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_4.xnb</Output>
+      <Time>2012-12-13T13:42:47.9841402-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_5.png</Source>
+      <Name>SBacteria1_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_5.xnb</Output>
+      <Time>2012-12-13T13:42:48.0491439-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_6.png</Source>
+      <Name>SBacteria1_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_6.xnb</Output>
+      <Time>2012-12-13T13:42:48.1171478-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria1_7.png</Source>
+      <Name>SBacteria1_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria1_7.xnb</Output>
+      <Time>2012-12-13T13:42:48.2171535-05:00</Time>
+    </Item>
+    <Item>
+      <Source>alienmetal.png</Source>
+      <Name>alienmetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\alienmetal.xnb</Output>
+      <Time>2012-12-13T13:42:46.7730709-05:00</Time>
+    </Item>
+    <Item>
+      <Source>button.png</Source>
+      <Name>button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\button.xnb</Output>
+      <Time>2012-12-13T13:42:48.4071644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>alienmetal2.png</Source>
+      <Name>alienmetal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\alienmetal2.xnb</Output>
+      <Time>2012-12-13T13:42:46.2920434-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\HealthBar.xnb</Output>
+      <Time>2012-12-13T13:42:47.1040899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_0.png</Source>
+      <Name>SBacteria2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_0.xnb</Output>
+      <Time>2012-12-13T13:42:47.3411034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_1.png</Source>
+      <Name>SBacteria2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_1.xnb</Output>
+      <Time>2012-12-13T13:42:47.4711109-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_2.png</Source>
+      <Name>SBacteria2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_2.xnb</Output>
+      <Time>2012-12-13T13:42:47.9731396-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_3.png</Source>
+      <Name>SBacteria2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_3.xnb</Output>
+      <Time>2012-12-13T13:42:48.015142-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_4.png</Source>
+      <Name>SBacteria2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_4.xnb</Output>
+      <Time>2012-12-13T13:42:48.0791456-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_5.png</Source>
+      <Name>SBacteria2_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_5.xnb</Output>
+      <Time>2012-12-13T13:42:48.1411492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_6.png</Source>
+      <Name>SBacteria2_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_6.xnb</Output>
+      <Time>2012-12-13T13:42:48.2241539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SBacteria2_7.png</Source>
+      <Name>SBacteria2_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\SBacteria2_7.xnb</Output>
+      <Time>2012-12-13T13:42:48.3021584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cursor_564.png</Source>
+      <Name>Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\Cursor.xnb</Output>
+      <Time>2012-12-13T13:42:46.6010611-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tree4.png</Source>
+      <Name>tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\tree.xnb</Output>
+      <Time>2012-12-13T13:42:48.9801972-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2012-12-13T13:42:46.8220737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_0.png</Source>
+      <Name>RBacteria2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_0.xnb</Output>
+      <Time>2012-12-13T13:42:46.1720366-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_1.png</Source>
+      <Name>RBacteria2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_1.xnb</Output>
+      <Time>2012-12-13T13:42:46.3100445-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_2.png</Source>
+      <Name>RBacteria2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_2.xnb</Output>
+      <Time>2012-12-13T13:42:46.3450465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_3.png</Source>
+      <Name>RBacteria2_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_3.xnb</Output>
+      <Time>2012-12-13T13:42:46.3870489-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_4.png</Source>
+      <Name>RBacteria2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_4.xnb</Output>
+      <Time>2012-12-13T13:42:46.4260511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_5.png</Source>
+      <Name>RBacteria2_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_5.xnb</Output>
+      <Time>2012-12-13T13:42:46.4650533-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_6.png</Source>
+      <Name>RBacteria2_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_6.xnb</Output>
+      <Time>2012-12-13T13:42:46.5150562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>RBacteria2_7.png</Source>
+      <Name>RBacteria2_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\RBacteria2_7.xnb</Output>
+      <Time>2012-12-13T13:42:46.5590587-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\MenuFont.xnb</Output>
+      <Time>2012-12-13T13:42:48.2471553-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\ScoreFont.xnb</Output>
+      <Time>2012-12-13T13:42:48.3501612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\TitleFont.xnb</Output>
+      <Time>2012-12-13T13:42:48.9161935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Select.wav</Source>
+      <Name>Select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\Select.xnb</Output>
+      <Time>2012-12-13T13:42:49.065202-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundMusic.wav</Source>
+      <Name>backgroundMusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\backgroundMusic.xnb</Output>
+      <Time>2012-12-13T13:42:47.0760883-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic ShowdownContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic ShowdownContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic Showdown\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-03T10:13:39.8037188-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

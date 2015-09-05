@@ -1,0 +1,2 @@
+C:\Users\Aaquib\Desktop\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic ShowdownContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Masters in CS\Intro. to Game Design and Dev\Team Folder\Trunk\Prokaryotic Showdown\Prokaryotic Showdown\Prokaryotic ShowdownContent\obj\x86\Debug\Prokaryotic ShowdownContent.contentprojResolveAssemblyReference.cache

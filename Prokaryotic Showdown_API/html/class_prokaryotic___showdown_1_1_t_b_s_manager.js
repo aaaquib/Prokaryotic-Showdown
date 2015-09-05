@@ -1,0 +1,28 @@
+var class_prokaryotic___showdown_1_1_t_b_s_manager =
+[
+    [ "createBacteria", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#af57a7d32352b7d113da5b03d54b45da5", null ],
+    [ "createRanger", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a1504986b7c393c07ea32dcf5feeee648", null ],
+    [ "createSoldier", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a306f7ef6ff9af6c2fb161270953f9b1e", null ],
+    [ "draw", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#adaa99553424828144d577f1e37a822a9", null ],
+    [ "generateWorld", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a553fbc3b6bd864b06c54371ee7b8dab7", null ],
+    [ "getScore", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#af880272e762d4eb174615840367af52d", null ],
+    [ "getWorldHeight", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#ae4584f3d3b57553f897804cb397d1dec", null ],
+    [ "getWorldWidth", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#acc7663203728da17e9c4b274f2faab70", null ],
+    [ "incScore", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#af81237a7de928f85668d75cfb4e4fc76", null ],
+    [ "Instance", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#aa22d778369c0a5b571ad2ff863e98da4", null ],
+    [ "moveCamDown", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#af7c00c08f14e6c9644d3137c1c3b530c", null ],
+    [ "moveCamLeft", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a1e02652c3eccf6aeac30ae4c07f9a60d", null ],
+    [ "moveCamRight", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a788a8f8e93b9ed20f9d58df8bccdbe79", null ],
+    [ "moveCamUp", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a9014eb41636165514d9f4382a5264eb2", null ],
+    [ "NewGame", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#afa1a19e4881627b2d2152c834f2e19ad", null ],
+    [ "setBackground", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a7d63ff55f209838b36b5901ac150eefd", null ],
+    [ "setCameraSpeed", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#aa2c150011542dcb2761b2cdc23e3618a", null ],
+    [ "setContentManger", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a842aa8444927acaba41f64158ee0a33c", null ],
+    [ "setFont", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a261e8c9077bc964a08243df54f9e9c62", null ],
+    [ "setWindowLimits", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#ab6ce58850a1b50e59becfd2ab37a2744", null ],
+    [ "setWorld", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#a26fa93c713145324749abef5e5284367", null ],
+    [ "update", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#acbbcdc821d2f347a82bcf3147935235f", null ],
+    [ "cam", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#aa19d6ec42f5312106e1fbb3d2083f5f9", null ],
+    [ "curResources", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#afbe0e57e4f3233b7289e389e9b374e9e", null ],
+    [ "world", "class_prokaryotic___showdown_1_1_t_b_s_manager.html#ae07691a395feed48ed6e029b18e831ef", null ]
+];
